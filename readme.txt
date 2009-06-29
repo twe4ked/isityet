@@ -1,5 +1,5 @@
 = Is it Yet countdown application
-A simple ‘Is it yet” application with a countdown of days 
+A simple 'Is it yet' application with a countdown of days 
 until the selected event. 
 
 Includes novelty sized YES or NO.
